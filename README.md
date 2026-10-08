@@ -25,4 +25,4 @@ This architecture can work for normal traffic but becomes a bottleneck during su
 
 ### Example failure scenario
 
-![Poor Architecture](diagrams/phase-1/01-poor-architecture.png)
+![Poor Architecture](diagrams/phase-1/Poor Architecture_ Scaling Failure Infographic.png)
